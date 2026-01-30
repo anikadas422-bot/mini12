@@ -1,0 +1,1 @@
+ C:\\flutter_project\\mini2-main\\lib\\l10n\\app_localizations_en.dart C:\\flutter_project\\mini2-main\\lib\\l10n\\app_localizations_ml.dart C:\\flutter_project\\mini2-main\\lib\\l10n\\app_localizations.dart:  C:\\flutter_project\\mini2-main\\l10n.yaml C:\\flutter_project\\mini2-main\\lib\\l10n\\app_en.arb C:\\flutter_project\\mini2-main\\lib\\l10n\\app_ml.arb
